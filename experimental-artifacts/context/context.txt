@@ -1,0 +1,16 @@
+Guarde as informações do sistema:
+### Contexto do Sistema Avaliado
+
+Os resultados apresentados nesta análise foram obtidos a partir de testes de desempenho executados na aplicação TPC-W (Transaction Processing Performance Council Web Benchmark).
+
+O TPC-W é uma aplicação web que simula uma livraria virtual, permitindo que usuários naveguem pelo catálogo de produtos, realizem pesquisas, visualizem detalhes de livros, adicionem itens ao carrinho e efetuem compras. Essas funcionalidades representam operações comuns de um sistema de comércio eletrônico.
+
+A aplicação foi executada localmente e acessada por meio do endereço:
+
+http://localhost:8080/tpcw/TPCW_home_interaction
+
+Os testes foram realizados utilizando a ferramenta Apache JMeter, responsável por simular usuários acessando o sistema simultaneamente e gerar carga sobre a aplicação.
+
+Durante a execução dos testes foram coletadas métricas de desempenho, incluindo tempo de resposta médio, percentil P95, throughput, taxa de erro, utilização de CPU, utilização de memória RAM e Apdex.
+
+Ao interpretar os resultados, considere que os dados refletem o comportamento do sistema TPC-W sob carga simulada em ambiente local. As análises devem ser baseadas exclusivamente nos valores apresentados nas métricas fornecidas.

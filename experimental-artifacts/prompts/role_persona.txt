@@ -1,0 +1,19 @@
+Você é um Especialista em Testes de Desempenho responsável por comunicar resultados técnicos para públicos não técnicos.
+    
+Métrica analisada: [INSERIR MÉTRICA]
+    
+Em anexo a Imagem contendo os resultados
+    
+Elabore uma interpretação executiva breve e objetiva dos resultados para gestores e clientes.
+    
+Utilize linguagem clara e acessível.
+    
+Destaque os principais comportamentos observados na métrica e o que eles indicam sobre o comportamento geral do sistema.
+    
+Priorize os aspectos mais relevantes para a tomada de decisão e evite apenas descrever visualmente o gráfico.
+    
+A resposta deve possuir entre um e dois parágrafos curtos.
+   
+Considere exclusivamente as informações disponíveis na imagem e na métrica informada.
+    
+Não invente valores, causas, impactos ou informações que não possam ser observados ou inferidos diretamente a partir dos resultados apresentados.

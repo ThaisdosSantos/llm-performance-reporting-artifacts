@@ -1,0 +1,1576 @@
+﻿participante,metrica,criterio,alternativa,estrategia,nota
+1,Métrica 1,Relevância das Informações,A,Zero-Shot,4
+1,Métrica 1,Relevância das Informações,B,Persona,5
+1,Métrica 1,Relevância das Informações,C,Template,3
+1,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+1,Métrica 1,Compreensibilidade,B,Persona,3
+1,Métrica 1,Compreensibilidade,C,Template,5
+1,Métrica 1,Capacidade Explicativa,A,Zero-Shot,4
+1,Métrica 1,Capacidade Explicativa,B,Persona,3
+1,Métrica 1,Capacidade Explicativa,C,Template,5
+1,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+1,Métrica 1,Adequação ao Contexto Executivo,B,Persona,3
+1,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+1,Métrica 2,Relevância das Informações,A,Zero-Shot,5
+1,Métrica 2,Relevância das Informações,B,Persona,4
+1,Métrica 2,Relevância das Informações,C,Template,3
+1,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+1,Métrica 2,Compreensibilidade,B,Persona,4
+1,Métrica 2,Compreensibilidade,C,Template,5
+1,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 2,Capacidade Explicativa,B,Persona,4
+1,Métrica 2,Capacidade Explicativa,C,Template,5
+1,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+1,Métrica 2,Adequação ao Contexto Executivo,B,Persona,5
+1,Métrica 2,Adequação ao Contexto Executivo,C,Template,4
+1,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+1,Métrica 3,Relevância das Informações,B,Persona,4
+1,Métrica 3,Relevância das Informações,C,Template,5
+1,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+1,Métrica 3,Compreensibilidade,B,Persona,4
+1,Métrica 3,Compreensibilidade,C,Template,5
+1,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 3,Capacidade Explicativa,B,Persona,4
+1,Métrica 3,Capacidade Explicativa,C,Template,5
+1,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+1,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+1,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+1,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+1,Métrica 4,Relevância das Informações,B,Persona,4
+1,Métrica 4,Relevância das Informações,C,Template,5
+1,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+1,Métrica 4,Compreensibilidade,B,Persona,4
+1,Métrica 4,Compreensibilidade,C,Template,5
+1,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 4,Capacidade Explicativa,B,Persona,4
+1,Métrica 4,Capacidade Explicativa,C,Template,5
+1,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+1,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+1,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+1,Métrica 5,Relevância das Informações,A,Zero-Shot,1
+1,Métrica 5,Relevância das Informações,B,Persona,2
+1,Métrica 5,Relevância das Informações,C,Template,4
+1,Métrica 5,Compreensibilidade,A,Zero-Shot,2
+1,Métrica 5,Compreensibilidade,B,Persona,3
+1,Métrica 5,Compreensibilidade,C,Template,5
+1,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 5,Capacidade Explicativa,B,Persona,4
+1,Métrica 5,Capacidade Explicativa,C,Template,5
+1,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,2
+1,Métrica 5,Adequação ao Contexto Executivo,B,Persona,3
+1,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+1,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+1,Métrica 6,Relevância das Informações,B,Persona,4
+1,Métrica 6,Relevância das Informações,C,Template,5
+1,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+1,Métrica 6,Compreensibilidade,B,Persona,4
+1,Métrica 6,Compreensibilidade,C,Template,5
+1,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 6,Capacidade Explicativa,B,Persona,4
+1,Métrica 6,Capacidade Explicativa,C,Template,5
+1,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+1,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+1,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+1,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+1,Métrica 7,Relevância das Informações,B,Persona,4
+1,Métrica 7,Relevância das Informações,C,Template,5
+1,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+1,Métrica 7,Compreensibilidade,B,Persona,4
+1,Métrica 7,Compreensibilidade,C,Template,5
+1,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+1,Métrica 7,Capacidade Explicativa,B,Persona,4
+1,Métrica 7,Capacidade Explicativa,C,Template,5
+1,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+1,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+1,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+1,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+1,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+1,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+2,Métrica 1,Relevância das Informações,A,Zero-Shot,5
+2,Métrica 1,Relevância das Informações,B,Persona,2
+2,Métrica 1,Relevância das Informações,C,Template,4
+2,Métrica 1,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 1,Compreensibilidade,B,Persona,4
+2,Métrica 1,Compreensibilidade,C,Template,3
+2,Métrica 1,Capacidade Explicativa,A,Zero-Shot,5
+2,Métrica 1,Capacidade Explicativa,B,Persona,3
+2,Métrica 1,Capacidade Explicativa,C,Template,4
+2,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+2,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+2,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,5
+2,Métrica 1,Adequação ao Contexto Executivo,B,Persona,3
+2,Métrica 1,Adequação ao Contexto Executivo,C,Template,4
+2,Métrica 2,Relevância das Informações,A,Zero-Shot,5
+2,Métrica 2,Relevância das Informações,B,Persona,3
+2,Métrica 2,Relevância das Informações,C,Template,4
+2,Métrica 2,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 2,Compreensibilidade,B,Persona,3
+2,Métrica 2,Compreensibilidade,C,Template,4
+2,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+2,Métrica 2,Capacidade Explicativa,B,Persona,3
+2,Métrica 2,Capacidade Explicativa,C,Template,5
+2,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+2,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+2,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,4
+2,Métrica 2,Adequação ao Contexto Executivo,B,Persona,3
+2,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+2,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+2,Métrica 3,Relevância das Informações,B,Persona,5
+2,Métrica 3,Relevância das Informações,C,Template,4
+2,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+2,Métrica 3,Compreensibilidade,B,Persona,5
+2,Métrica 3,Compreensibilidade,C,Template,4
+2,Métrica 3,Capacidade Explicativa,A,Zero-Shot,4
+2,Métrica 3,Capacidade Explicativa,B,Persona,3
+2,Métrica 3,Capacidade Explicativa,C,Template,5
+2,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+2,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+2,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+2,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+2,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+2,Métrica 4,Relevância das Informações,A,Zero-Shot,5
+2,Métrica 4,Relevância das Informações,B,Persona,4
+2,Métrica 4,Relevância das Informações,C,Template,3
+2,Métrica 4,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 4,Compreensibilidade,B,Persona,4
+2,Métrica 4,Compreensibilidade,C,Template,3
+2,Métrica 4,Capacidade Explicativa,A,Zero-Shot,5
+2,Métrica 4,Capacidade Explicativa,B,Persona,3
+2,Métrica 4,Capacidade Explicativa,C,Template,4
+2,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+2,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 4,Utilidade para Tomada de Decisão,C,Template,4
+2,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,5
+2,Métrica 4,Adequação ao Contexto Executivo,B,Persona,3
+2,Métrica 4,Adequação ao Contexto Executivo,C,Template,4
+2,Métrica 5,Relevância das Informações,A,Zero-Shot,4
+2,Métrica 5,Relevância das Informações,B,Persona,3
+2,Métrica 5,Relevância das Informações,C,Template,5
+2,Métrica 5,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 5,Compreensibilidade,B,Persona,3
+2,Métrica 5,Compreensibilidade,C,Template,4
+2,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+2,Métrica 5,Capacidade Explicativa,B,Persona,3
+2,Métrica 5,Capacidade Explicativa,C,Template,5
+2,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+2,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+2,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,5
+2,Métrica 5,Adequação ao Contexto Executivo,B,Persona,3
+2,Métrica 5,Adequação ao Contexto Executivo,C,Template,4
+2,Métrica 6,Relevância das Informações,A,Zero-Shot,5
+2,Métrica 6,Relevância das Informações,B,Persona,4
+2,Métrica 6,Relevância das Informações,C,Template,3
+2,Métrica 6,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 6,Compreensibilidade,B,Persona,4
+2,Métrica 6,Compreensibilidade,C,Template,3
+2,Métrica 6,Capacidade Explicativa,A,Zero-Shot,5
+2,Métrica 6,Capacidade Explicativa,B,Persona,3
+2,Métrica 6,Capacidade Explicativa,C,Template,4
+2,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+2,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 6,Utilidade para Tomada de Decisão,C,Template,4
+2,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+2,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+2,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+2,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+2,Métrica 7,Relevância das Informações,B,Persona,4
+2,Métrica 7,Relevância das Informações,C,Template,5
+2,Métrica 7,Compreensibilidade,A,Zero-Shot,5
+2,Métrica 7,Compreensibilidade,B,Persona,3
+2,Métrica 7,Compreensibilidade,C,Template,4
+2,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+2,Métrica 7,Capacidade Explicativa,B,Persona,4
+2,Métrica 7,Capacidade Explicativa,C,Template,5
+2,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+2,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,3
+2,Métrica 7,Utilidade para Tomada de Decisão,C,Template,4
+2,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,4
+2,Métrica 7,Adequação ao Contexto Executivo,B,Persona,3
+2,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 1,Relevância das Informações,B,Persona,4
+3,Métrica 1,Relevância das Informações,C,Template,5
+3,Métrica 1,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 1,Compreensibilidade,B,Persona,4
+3,Métrica 1,Compreensibilidade,C,Template,5
+3,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 1,Capacidade Explicativa,B,Persona,4
+3,Métrica 1,Capacidade Explicativa,C,Template,5
+3,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 2,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 2,Relevância das Informações,B,Persona,4
+3,Métrica 2,Relevância das Informações,C,Template,5
+3,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 2,Compreensibilidade,B,Persona,4
+3,Métrica 2,Compreensibilidade,C,Template,5
+3,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 2,Capacidade Explicativa,B,Persona,4
+3,Métrica 2,Capacidade Explicativa,C,Template,5
+3,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 3,Relevância das Informações,B,Persona,4
+3,Métrica 3,Relevância das Informações,C,Template,5
+3,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 3,Compreensibilidade,B,Persona,4
+3,Métrica 3,Compreensibilidade,C,Template,5
+3,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 3,Capacidade Explicativa,B,Persona,4
+3,Métrica 3,Capacidade Explicativa,C,Template,5
+3,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 4,Relevância das Informações,B,Persona,4
+3,Métrica 4,Relevância das Informações,C,Template,5
+3,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 4,Compreensibilidade,B,Persona,4
+3,Métrica 4,Compreensibilidade,C,Template,5
+3,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 4,Capacidade Explicativa,B,Persona,4
+3,Métrica 4,Capacidade Explicativa,C,Template,5
+3,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 5,Relevância das Informações,B,Persona,4
+3,Métrica 5,Relevância das Informações,C,Template,5
+3,Métrica 5,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 5,Compreensibilidade,B,Persona,4
+3,Métrica 5,Compreensibilidade,C,Template,5
+3,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 5,Capacidade Explicativa,B,Persona,4
+3,Métrica 5,Capacidade Explicativa,C,Template,5
+3,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 6,Relevância das Informações,B,Persona,4
+3,Métrica 6,Relevância das Informações,C,Template,5
+3,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 6,Compreensibilidade,B,Persona,4
+3,Métrica 6,Compreensibilidade,C,Template,5
+3,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 6,Capacidade Explicativa,B,Persona,4
+3,Métrica 6,Capacidade Explicativa,C,Template,5
+3,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+3,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+3,Métrica 7,Relevância das Informações,B,Persona,4
+3,Métrica 7,Relevância das Informações,C,Template,5
+3,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+3,Métrica 7,Compreensibilidade,B,Persona,4
+3,Métrica 7,Compreensibilidade,C,Template,5
+3,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+3,Métrica 7,Capacidade Explicativa,B,Persona,4
+3,Métrica 7,Capacidade Explicativa,C,Template,5
+3,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+3,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+3,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+3,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+3,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+3,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 1,Relevância das Informações,B,Persona,4
+4,Métrica 1,Relevância das Informações,C,Template,5
+4,Métrica 1,Compreensibilidade,A,Zero-Shot,1
+4,Métrica 1,Compreensibilidade,B,Persona,3
+4,Métrica 1,Compreensibilidade,C,Template,5
+4,Métrica 1,Capacidade Explicativa,A,Zero-Shot,2
+4,Métrica 1,Capacidade Explicativa,B,Persona,3
+4,Métrica 1,Capacidade Explicativa,C,Template,5
+4,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 2,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 2,Relevância das Informações,B,Persona,4
+4,Métrica 2,Relevância das Informações,C,Template,5
+4,Métrica 2,Compreensibilidade,A,Zero-Shot,2
+4,Métrica 2,Compreensibilidade,B,Persona,3
+4,Métrica 2,Compreensibilidade,C,Template,5
+4,Métrica 2,Capacidade Explicativa,A,Zero-Shot,1
+4,Métrica 2,Capacidade Explicativa,B,Persona,2
+4,Métrica 2,Capacidade Explicativa,C,Template,5
+4,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 3,Relevância das Informações,B,Persona,4
+4,Métrica 3,Relevância das Informações,C,Template,5
+4,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+4,Métrica 3,Compreensibilidade,B,Persona,4
+4,Métrica 3,Compreensibilidade,C,Template,5
+4,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+4,Métrica 3,Capacidade Explicativa,B,Persona,4
+4,Métrica 3,Capacidade Explicativa,C,Template,5
+4,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 4,Relevância das Informações,B,Persona,4
+4,Métrica 4,Relevância das Informações,C,Template,5
+4,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+4,Métrica 4,Compreensibilidade,B,Persona,4
+4,Métrica 4,Compreensibilidade,C,Template,5
+4,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+4,Métrica 4,Capacidade Explicativa,B,Persona,4
+4,Métrica 4,Capacidade Explicativa,C,Template,5
+4,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 5,Relevância das Informações,B,Persona,4
+4,Métrica 5,Relevância das Informações,C,Template,5
+4,Métrica 5,Compreensibilidade,A,Zero-Shot,3
+4,Métrica 5,Compreensibilidade,B,Persona,4
+4,Métrica 5,Compreensibilidade,C,Template,5
+4,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+4,Métrica 5,Capacidade Explicativa,B,Persona,4
+4,Métrica 5,Capacidade Explicativa,C,Template,5
+4,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 6,Relevância das Informações,B,Persona,4
+4,Métrica 6,Relevância das Informações,C,Template,5
+4,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+4,Métrica 6,Compreensibilidade,B,Persona,4
+4,Métrica 6,Compreensibilidade,C,Template,5
+4,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+4,Métrica 6,Capacidade Explicativa,B,Persona,4
+4,Métrica 6,Capacidade Explicativa,C,Template,5
+4,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+4,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+4,Métrica 7,Relevância das Informações,B,Persona,4
+4,Métrica 7,Relevância das Informações,C,Template,5
+4,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+4,Métrica 7,Compreensibilidade,B,Persona,4
+4,Métrica 7,Compreensibilidade,C,Template,5
+4,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+4,Métrica 7,Capacidade Explicativa,B,Persona,4
+4,Métrica 7,Capacidade Explicativa,C,Template,5
+4,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+4,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+4,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+4,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+4,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+4,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+5,Métrica 1,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 1,Relevância das Informações,B,Persona,5
+5,Métrica 1,Relevância das Informações,C,Template,3
+5,Métrica 1,Compreensibilidade,A,Zero-Shot,3
+5,Métrica 1,Compreensibilidade,B,Persona,4
+5,Métrica 1,Compreensibilidade,C,Template,5
+5,Métrica 1,Capacidade Explicativa,A,Zero-Shot,4
+5,Métrica 1,Capacidade Explicativa,B,Persona,5
+5,Métrica 1,Capacidade Explicativa,C,Template,3
+5,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+5,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 1,Utilidade para Tomada de Decisão,C,Template,3
+5,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+5,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+5,Métrica 2,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 2,Relevância das Informações,B,Persona,5
+5,Métrica 2,Relevância das Informações,C,Template,3
+5,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+5,Métrica 2,Compreensibilidade,B,Persona,4
+5,Métrica 2,Compreensibilidade,C,Template,5
+5,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+5,Métrica 2,Capacidade Explicativa,B,Persona,5
+5,Métrica 2,Capacidade Explicativa,C,Template,3
+5,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+5,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+5,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+5,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 2,Adequação ao Contexto Executivo,B,Persona,5
+5,Métrica 2,Adequação ao Contexto Executivo,C,Template,4
+5,Métrica 3,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 3,Relevância das Informações,B,Persona,5
+5,Métrica 3,Relevância das Informações,C,Template,3
+5,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+5,Métrica 3,Compreensibilidade,B,Persona,4
+5,Métrica 3,Compreensibilidade,C,Template,5
+5,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+5,Métrica 3,Capacidade Explicativa,B,Persona,5
+5,Métrica 3,Capacidade Explicativa,C,Template,4
+5,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+5,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 3,Utilidade para Tomada de Decisão,C,Template,4
+5,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 3,Adequação ao Contexto Executivo,B,Persona,5
+5,Métrica 3,Adequação ao Contexto Executivo,C,Template,4
+5,Métrica 4,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 4,Relevância das Informações,B,Persona,5
+5,Métrica 4,Relevância das Informações,C,Template,3
+5,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+5,Métrica 4,Compreensibilidade,B,Persona,5
+5,Métrica 4,Compreensibilidade,C,Template,4
+5,Métrica 4,Capacidade Explicativa,A,Zero-Shot,4
+5,Métrica 4,Capacidade Explicativa,B,Persona,5
+5,Métrica 4,Capacidade Explicativa,C,Template,3
+5,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+5,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 4,Utilidade para Tomada de Decisão,C,Template,4
+5,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+5,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+5,Métrica 5,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 5,Relevância das Informações,B,Persona,5
+5,Métrica 5,Relevância das Informações,C,Template,3
+5,Métrica 5,Compreensibilidade,A,Zero-Shot,4
+5,Métrica 5,Compreensibilidade,B,Persona,5
+5,Métrica 5,Compreensibilidade,C,Template,3
+5,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+5,Métrica 5,Capacidade Explicativa,B,Persona,5
+5,Métrica 5,Capacidade Explicativa,C,Template,3
+5,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+5,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 5,Utilidade para Tomada de Decisão,C,Template,3
+5,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 5,Adequação ao Contexto Executivo,B,Persona,5
+5,Métrica 5,Adequação ao Contexto Executivo,C,Template,4
+5,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 6,Relevância das Informações,B,Persona,5
+5,Métrica 6,Relevância das Informações,C,Template,3
+5,Métrica 6,Compreensibilidade,A,Zero-Shot,4
+5,Métrica 6,Compreensibilidade,B,Persona,5
+5,Métrica 6,Compreensibilidade,C,Template,3
+5,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+5,Métrica 6,Capacidade Explicativa,B,Persona,5
+5,Métrica 6,Capacidade Explicativa,C,Template,4
+5,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+5,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 6,Utilidade para Tomada de Decisão,C,Template,4
+5,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,4
+5,Métrica 6,Adequação ao Contexto Executivo,B,Persona,5
+5,Métrica 6,Adequação ao Contexto Executivo,C,Template,3
+5,Métrica 7,Relevância das Informações,A,Zero-Shot,4
+5,Métrica 7,Relevância das Informações,B,Persona,5
+5,Métrica 7,Relevância das Informações,C,Template,3
+5,Métrica 7,Compreensibilidade,A,Zero-Shot,4
+5,Métrica 7,Compreensibilidade,B,Persona,5
+5,Métrica 7,Compreensibilidade,C,Template,3
+5,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+5,Métrica 7,Capacidade Explicativa,B,Persona,5
+5,Métrica 7,Capacidade Explicativa,C,Template,4
+5,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+5,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,5
+5,Métrica 7,Utilidade para Tomada de Decisão,C,Template,4
+5,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+5,Métrica 7,Adequação ao Contexto Executivo,B,Persona,5
+5,Métrica 7,Adequação ao Contexto Executivo,C,Template,4
+6,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+6,Métrica 1,Relevância das Informações,B,Persona,4
+6,Métrica 1,Relevância das Informações,C,Template,5
+6,Métrica 1,Compreensibilidade,A,Zero-Shot,1
+6,Métrica 1,Compreensibilidade,B,Persona,2
+6,Métrica 1,Compreensibilidade,C,Template,5
+6,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 1,Capacidade Explicativa,B,Persona,4
+6,Métrica 1,Capacidade Explicativa,C,Template,5
+6,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,1
+6,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 2,Relevância das Informações,A,Zero-Shot,2
+6,Métrica 2,Relevância das Informações,B,Persona,4
+6,Métrica 2,Relevância das Informações,C,Template,5
+6,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+6,Métrica 2,Compreensibilidade,B,Persona,4
+6,Métrica 2,Compreensibilidade,C,Template,5
+6,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 2,Capacidade Explicativa,B,Persona,4
+6,Métrica 2,Capacidade Explicativa,C,Template,5
+6,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+6,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 3,Relevância das Informações,A,Zero-Shot,4
+6,Métrica 3,Relevância das Informações,B,Persona,3
+6,Métrica 3,Relevância das Informações,C,Template,5
+6,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+6,Métrica 3,Compreensibilidade,B,Persona,4
+6,Métrica 3,Compreensibilidade,C,Template,5
+6,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 3,Capacidade Explicativa,B,Persona,4
+6,Métrica 3,Capacidade Explicativa,C,Template,5
+6,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+6,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+6,Métrica 4,Relevância das Informações,B,Persona,5
+6,Métrica 4,Relevância das Informações,C,Template,4
+6,Métrica 4,Compreensibilidade,A,Zero-Shot,5
+6,Métrica 4,Compreensibilidade,B,Persona,4
+6,Métrica 4,Compreensibilidade,C,Template,3
+6,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 4,Capacidade Explicativa,B,Persona,5
+6,Métrica 4,Capacidade Explicativa,C,Template,4
+6,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+6,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+6,Métrica 5,Relevância das Informações,B,Persona,5
+6,Métrica 5,Relevância das Informações,C,Template,4
+6,Métrica 5,Compreensibilidade,A,Zero-Shot,3
+6,Métrica 5,Compreensibilidade,B,Persona,4
+6,Métrica 5,Compreensibilidade,C,Template,5
+6,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 5,Capacidade Explicativa,B,Persona,4
+6,Métrica 5,Capacidade Explicativa,C,Template,5
+6,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+6,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+6,Métrica 6,Relevância das Informações,B,Persona,4
+6,Métrica 6,Relevância das Informações,C,Template,5
+6,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+6,Métrica 6,Compreensibilidade,B,Persona,4
+6,Métrica 6,Compreensibilidade,C,Template,5
+6,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+6,Métrica 6,Capacidade Explicativa,B,Persona,4
+6,Métrica 6,Capacidade Explicativa,C,Template,5
+6,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+6,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+6,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+6,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+6,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+6,Métrica 7,Relevância das Informações,A,Zero-Shot,1
+6,Métrica 7,Relevância das Informações,B,Persona,2
+6,Métrica 7,Relevância das Informações,C,Template,5
+6,Métrica 7,Compreensibilidade,A,Zero-Shot,1
+6,Métrica 7,Compreensibilidade,B,Persona,2
+6,Métrica 7,Compreensibilidade,C,Template,5
+6,Métrica 7,Capacidade Explicativa,A,Zero-Shot,1
+6,Métrica 7,Capacidade Explicativa,B,Persona,2
+6,Métrica 7,Capacidade Explicativa,C,Template,5
+6,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,1
+6,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,2
+6,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+6,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,1
+6,Métrica 7,Adequação ao Contexto Executivo,B,Persona,2
+6,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 1,Relevância das Informações,A,Zero-Shot,5
+7,Métrica 1,Relevância das Informações,B,Persona,4
+7,Métrica 1,Relevância das Informações,C,Template,3
+7,Métrica 1,Compreensibilidade,A,Zero-Shot,3
+7,Métrica 1,Compreensibilidade,B,Persona,4
+7,Métrica 1,Compreensibilidade,C,Template,5
+7,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+7,Métrica 1,Capacidade Explicativa,B,Persona,4
+7,Métrica 1,Capacidade Explicativa,C,Template,5
+7,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+7,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,5
+7,Métrica 1,Utilidade para Tomada de Decisão,C,Template,3
+7,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+7,Métrica 1,Adequação ao Contexto Executivo,B,Persona,3
+7,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 2,Relevância das Informações,A,Zero-Shot,2
+7,Métrica 2,Relevância das Informações,B,Persona,5
+7,Métrica 2,Relevância das Informações,C,Template,4
+7,Métrica 2,Compreensibilidade,A,Zero-Shot,2
+7,Métrica 2,Compreensibilidade,B,Persona,4
+7,Métrica 2,Compreensibilidade,C,Template,3
+7,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+7,Métrica 2,Capacidade Explicativa,B,Persona,5
+7,Métrica 2,Capacidade Explicativa,C,Template,3
+7,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+7,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+7,Métrica 2,Utilidade para Tomada de Decisão,C,Template,3
+7,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,2
+7,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+7,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 3,Relevância das Informações,A,Zero-Shot,5
+7,Métrica 3,Relevância das Informações,B,Persona,4
+7,Métrica 3,Relevância das Informações,C,Template,2
+7,Métrica 3,Compreensibilidade,A,Zero-Shot,5
+7,Métrica 3,Compreensibilidade,B,Persona,4
+7,Métrica 3,Compreensibilidade,C,Template,3
+7,Métrica 3,Capacidade Explicativa,A,Zero-Shot,4
+7,Métrica 3,Capacidade Explicativa,B,Persona,3
+7,Métrica 3,Capacidade Explicativa,C,Template,5
+7,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+7,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,2
+7,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+7,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+7,Métrica 3,Adequação ao Contexto Executivo,B,Persona,2
+7,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 4,Relevância das Informações,A,Zero-Shot,5
+7,Métrica 4,Relevância das Informações,B,Persona,4
+7,Métrica 4,Relevância das Informações,C,Template,3
+7,Métrica 4,Compreensibilidade,A,Zero-Shot,5
+7,Métrica 4,Compreensibilidade,B,Persona,4
+7,Métrica 4,Compreensibilidade,C,Template,3
+7,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+7,Métrica 4,Capacidade Explicativa,B,Persona,5
+7,Métrica 4,Capacidade Explicativa,C,Template,4
+7,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+7,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+7,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+7,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,4
+7,Métrica 4,Adequação ao Contexto Executivo,B,Persona,3
+7,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 5,Relevância das Informações,A,Zero-Shot,5
+7,Métrica 5,Relevância das Informações,B,Persona,4
+7,Métrica 5,Relevância das Informações,C,Template,3
+7,Métrica 5,Compreensibilidade,A,Zero-Shot,5
+7,Métrica 5,Compreensibilidade,B,Persona,3
+7,Métrica 5,Compreensibilidade,C,Template,2
+7,Métrica 5,Capacidade Explicativa,A,Zero-Shot,5
+7,Métrica 5,Capacidade Explicativa,B,Persona,2
+7,Métrica 5,Capacidade Explicativa,C,Template,4
+7,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+7,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,2
+7,Métrica 5,Utilidade para Tomada de Decisão,C,Template,4
+7,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,4
+7,Métrica 5,Adequação ao Contexto Executivo,B,Persona,3
+7,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+7,Métrica 6,Relevância das Informações,A,Zero-Shot,5
+7,Métrica 6,Relevância das Informações,B,Persona,3
+7,Métrica 6,Relevância das Informações,C,Template,4
+7,Métrica 6,Compreensibilidade,A,Zero-Shot,5
+7,Métrica 6,Compreensibilidade,B,Persona,4
+7,Métrica 6,Compreensibilidade,C,Template,3
+7,Métrica 6,Capacidade Explicativa,A,Zero-Shot,5
+7,Métrica 6,Capacidade Explicativa,B,Persona,4
+7,Métrica 6,Capacidade Explicativa,C,Template,3
+7,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+7,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,2
+7,Métrica 6,Utilidade para Tomada de Decisão,C,Template,4
+7,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,5
+7,Métrica 6,Adequação ao Contexto Executivo,B,Persona,2
+7,Métrica 6,Adequação ao Contexto Executivo,C,Template,4
+7,Métrica 7,Relevância das Informações,A,Zero-Shot,4
+7,Métrica 7,Relevância das Informações,B,Persona,5
+7,Métrica 7,Relevância das Informações,C,Template,3
+7,Métrica 7,Compreensibilidade,A,Zero-Shot,4
+7,Métrica 7,Compreensibilidade,B,Persona,5
+7,Métrica 7,Compreensibilidade,C,Template,3
+7,Métrica 7,Capacidade Explicativa,A,Zero-Shot,4
+7,Métrica 7,Capacidade Explicativa,B,Persona,5
+7,Métrica 7,Capacidade Explicativa,C,Template,3
+7,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+7,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,5
+7,Métrica 7,Utilidade para Tomada de Decisão,C,Template,4
+7,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+7,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+7,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 1,Relevância das Informações,A,Zero-Shot,4
+8,Métrica 1,Relevância das Informações,B,Persona,3
+8,Métrica 1,Relevância das Informações,C,Template,5
+8,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+8,Métrica 1,Compreensibilidade,B,Persona,2
+8,Métrica 1,Compreensibilidade,C,Template,5
+8,Métrica 1,Capacidade Explicativa,A,Zero-Shot,5
+8,Métrica 1,Capacidade Explicativa,B,Persona,3
+8,Métrica 1,Capacidade Explicativa,C,Template,4
+8,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+8,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,2
+8,Métrica 1,Utilidade para Tomada de Decisão,C,Template,4
+8,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+8,Métrica 1,Adequação ao Contexto Executivo,B,Persona,2
+8,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 2,Relevância das Informações,A,Zero-Shot,5
+8,Métrica 2,Relevância das Informações,B,Persona,3
+8,Métrica 2,Relevância das Informações,C,Template,4
+8,Métrica 2,Compreensibilidade,A,Zero-Shot,4
+8,Métrica 2,Compreensibilidade,B,Persona,3
+8,Métrica 2,Compreensibilidade,C,Template,5
+8,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+8,Métrica 2,Capacidade Explicativa,B,Persona,3
+8,Métrica 2,Capacidade Explicativa,C,Template,5
+8,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+8,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,3
+8,Métrica 2,Utilidade para Tomada de Decisão,C,Template,4
+8,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,4
+8,Métrica 2,Adequação ao Contexto Executivo,B,Persona,3
+8,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+8,Métrica 3,Relevância das Informações,B,Persona,4
+8,Métrica 3,Relevância das Informações,C,Template,5
+8,Métrica 3,Compreensibilidade,A,Zero-Shot,5
+8,Métrica 3,Compreensibilidade,B,Persona,4
+8,Métrica 3,Compreensibilidade,C,Template,3
+8,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+8,Métrica 3,Capacidade Explicativa,B,Persona,4
+8,Métrica 3,Capacidade Explicativa,C,Template,5
+8,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+8,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,3
+8,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+8,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+8,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+8,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+8,Métrica 4,Relevância das Informações,B,Persona,4
+8,Métrica 4,Relevância das Informações,C,Template,5
+8,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+8,Métrica 4,Compreensibilidade,B,Persona,5
+8,Métrica 4,Compreensibilidade,C,Template,4
+8,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+8,Métrica 4,Capacidade Explicativa,B,Persona,4
+8,Métrica 4,Capacidade Explicativa,C,Template,5
+8,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+8,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+8,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+8,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+8,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+8,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 5,Relevância das Informações,A,Zero-Shot,4
+8,Métrica 5,Relevância das Informações,B,Persona,3
+8,Métrica 5,Relevância das Informações,C,Template,5
+8,Métrica 5,Compreensibilidade,A,Zero-Shot,4
+8,Métrica 5,Compreensibilidade,B,Persona,5
+8,Métrica 5,Compreensibilidade,C,Template,3
+8,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+8,Métrica 5,Capacidade Explicativa,B,Persona,3
+8,Métrica 5,Capacidade Explicativa,C,Template,5
+8,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+8,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+8,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+8,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+8,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+8,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+8,Métrica 6,Relevância das Informações,B,Persona,3
+8,Métrica 6,Relevância das Informações,C,Template,5
+8,Métrica 6,Compreensibilidade,A,Zero-Shot,5
+8,Métrica 6,Compreensibilidade,B,Persona,4
+8,Métrica 6,Compreensibilidade,C,Template,3
+8,Métrica 6,Capacidade Explicativa,A,Zero-Shot,4
+8,Métrica 6,Capacidade Explicativa,B,Persona,3
+8,Métrica 6,Capacidade Explicativa,C,Template,5
+8,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+8,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,3
+8,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+8,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+8,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+8,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+8,Métrica 7,Relevância das Informações,A,Zero-Shot,4
+8,Métrica 7,Relevância das Informações,B,Persona,3
+8,Métrica 7,Relevância das Informações,C,Template,5
+8,Métrica 7,Compreensibilidade,A,Zero-Shot,5
+8,Métrica 7,Compreensibilidade,B,Persona,4
+8,Métrica 7,Compreensibilidade,C,Template,3
+8,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+8,Métrica 7,Capacidade Explicativa,B,Persona,4
+8,Métrica 7,Capacidade Explicativa,C,Template,5
+8,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+8,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+8,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+8,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,4
+8,Métrica 7,Adequação ao Contexto Executivo,B,Persona,3
+8,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+9,Métrica 1,Relevância das Informações,B,Persona,4
+9,Métrica 1,Relevância das Informações,C,Template,5
+9,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+9,Métrica 1,Compreensibilidade,B,Persona,3
+9,Métrica 1,Compreensibilidade,C,Template,5
+9,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 1,Capacidade Explicativa,B,Persona,4
+9,Métrica 1,Capacidade Explicativa,C,Template,5
+9,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+9,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+9,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+9,Métrica 1,Adequação ao Contexto Executivo,B,Persona,3
+9,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 2,Relevância das Informações,A,Zero-Shot,3
+9,Métrica 2,Relevância das Informações,B,Persona,4
+9,Métrica 2,Relevância das Informações,C,Template,5
+9,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+9,Métrica 2,Compreensibilidade,B,Persona,4
+9,Métrica 2,Compreensibilidade,C,Template,5
+9,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 2,Capacidade Explicativa,B,Persona,4
+9,Métrica 2,Capacidade Explicativa,C,Template,5
+9,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+9,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,3
+9,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 3,Relevância das Informações,A,Zero-Shot,2
+9,Métrica 3,Relevância das Informações,B,Persona,4
+9,Métrica 3,Relevância das Informações,C,Template,5
+9,Métrica 3,Compreensibilidade,A,Zero-Shot,5
+9,Métrica 3,Compreensibilidade,B,Persona,3
+9,Métrica 3,Compreensibilidade,C,Template,4
+9,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 3,Capacidade Explicativa,B,Persona,4
+9,Métrica 3,Capacidade Explicativa,C,Template,5
+9,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+9,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,3
+9,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 4,Relevância das Informações,A,Zero-Shot,4
+9,Métrica 4,Relevância das Informações,B,Persona,3
+9,Métrica 4,Relevância das Informações,C,Template,5
+9,Métrica 4,Compreensibilidade,A,Zero-Shot,5
+9,Métrica 4,Compreensibilidade,B,Persona,3
+9,Métrica 4,Compreensibilidade,C,Template,4
+9,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 4,Capacidade Explicativa,B,Persona,4
+9,Métrica 4,Capacidade Explicativa,C,Template,5
+9,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+9,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,3
+9,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+9,Métrica 5,Relevância das Informações,B,Persona,4
+9,Métrica 5,Relevância das Informações,C,Template,5
+9,Métrica 5,Compreensibilidade,A,Zero-Shot,4
+9,Métrica 5,Compreensibilidade,B,Persona,3
+9,Métrica 5,Compreensibilidade,C,Template,5
+9,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 5,Capacidade Explicativa,B,Persona,4
+9,Métrica 5,Capacidade Explicativa,C,Template,5
+9,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+9,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,2
+9,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+9,Métrica 6,Relevância das Informações,B,Persona,3
+9,Métrica 6,Relevância das Informações,C,Template,5
+9,Métrica 6,Compreensibilidade,A,Zero-Shot,4
+9,Métrica 6,Compreensibilidade,B,Persona,3
+9,Métrica 6,Compreensibilidade,C,Template,5
+9,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 6,Capacidade Explicativa,B,Persona,4
+9,Métrica 6,Capacidade Explicativa,C,Template,5
+9,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+9,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+9,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+9,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+9,Métrica 7,Relevância das Informações,B,Persona,4
+9,Métrica 7,Relevância das Informações,C,Template,5
+9,Métrica 7,Compreensibilidade,A,Zero-Shot,4
+9,Métrica 7,Compreensibilidade,B,Persona,3
+9,Métrica 7,Compreensibilidade,C,Template,5
+9,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+9,Métrica 7,Capacidade Explicativa,B,Persona,4
+9,Métrica 7,Capacidade Explicativa,C,Template,5
+9,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+9,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+9,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+9,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+9,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+9,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+10,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+10,Métrica 1,Relevância das Informações,B,Persona,4
+10,Métrica 1,Relevância das Informações,C,Template,5
+10,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+10,Métrica 1,Compreensibilidade,B,Persona,5
+10,Métrica 1,Compreensibilidade,C,Template,3
+10,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+10,Métrica 1,Capacidade Explicativa,B,Persona,4
+10,Métrica 1,Capacidade Explicativa,C,Template,5
+10,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+10,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+10,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+10,Métrica 1,Adequação ao Contexto Executivo,B,Persona,5
+10,Métrica 1,Adequação ao Contexto Executivo,C,Template,3
+10,Métrica 2,Relevância das Informações,A,Zero-Shot,4
+10,Métrica 2,Relevância das Informações,B,Persona,3
+10,Métrica 2,Relevância das Informações,C,Template,5
+10,Métrica 2,Compreensibilidade,A,Zero-Shot,5
+10,Métrica 2,Compreensibilidade,B,Persona,3
+10,Métrica 2,Compreensibilidade,C,Template,4
+10,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+10,Métrica 2,Capacidade Explicativa,B,Persona,3
+10,Métrica 2,Capacidade Explicativa,C,Template,5
+10,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+10,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,2
+10,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,5
+10,Métrica 2,Adequação ao Contexto Executivo,B,Persona,3
+10,Métrica 2,Adequação ao Contexto Executivo,C,Template,4
+10,Métrica 3,Relevância das Informações,A,Zero-Shot,2
+10,Métrica 3,Relevância das Informações,B,Persona,3
+10,Métrica 3,Relevância das Informações,C,Template,5
+10,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+10,Métrica 3,Compreensibilidade,B,Persona,4
+10,Métrica 3,Compreensibilidade,C,Template,5
+10,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+10,Métrica 3,Capacidade Explicativa,B,Persona,4
+10,Métrica 3,Capacidade Explicativa,C,Template,5
+10,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+10,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,3
+10,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+10,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+10,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+10,Métrica 4,Relevância das Informações,A,Zero-Shot,4
+10,Métrica 4,Relevância das Informações,B,Persona,3
+10,Métrica 4,Relevância das Informações,C,Template,5
+10,Métrica 4,Compreensibilidade,A,Zero-Shot,4
+10,Métrica 4,Compreensibilidade,B,Persona,3
+10,Métrica 4,Compreensibilidade,C,Template,5
+10,Métrica 4,Capacidade Explicativa,A,Zero-Shot,4
+10,Métrica 4,Capacidade Explicativa,B,Persona,2
+10,Métrica 4,Capacidade Explicativa,C,Template,5
+10,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+10,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,2
+10,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,4
+10,Métrica 4,Adequação ao Contexto Executivo,B,Persona,3
+10,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+10,Métrica 5,Relevância das Informações,A,Zero-Shot,4
+10,Métrica 5,Relevância das Informações,B,Persona,3
+10,Métrica 5,Relevância das Informações,C,Template,5
+10,Métrica 5,Compreensibilidade,A,Zero-Shot,4
+10,Métrica 5,Compreensibilidade,B,Persona,3
+10,Métrica 5,Compreensibilidade,C,Template,5
+10,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+10,Métrica 5,Capacidade Explicativa,B,Persona,3
+10,Métrica 5,Capacidade Explicativa,C,Template,5
+10,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+10,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,2
+10,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,4
+10,Métrica 5,Adequação ao Contexto Executivo,B,Persona,3
+10,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+10,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+10,Métrica 6,Relevância das Informações,B,Persona,3
+10,Métrica 6,Relevância das Informações,C,Template,5
+10,Métrica 6,Compreensibilidade,A,Zero-Shot,4
+10,Métrica 6,Compreensibilidade,B,Persona,3
+10,Métrica 6,Compreensibilidade,C,Template,5
+10,Métrica 6,Capacidade Explicativa,A,Zero-Shot,5
+10,Métrica 6,Capacidade Explicativa,B,Persona,3
+10,Métrica 6,Capacidade Explicativa,C,Template,4
+10,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+10,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,3
+10,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,4
+10,Métrica 6,Adequação ao Contexto Executivo,B,Persona,3
+10,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+10,Métrica 7,Relevância das Informações,A,Zero-Shot,4
+10,Métrica 7,Relevância das Informações,B,Persona,3
+10,Métrica 7,Relevância das Informações,C,Template,5
+10,Métrica 7,Compreensibilidade,A,Zero-Shot,4
+10,Métrica 7,Compreensibilidade,B,Persona,3
+10,Métrica 7,Compreensibilidade,C,Template,5
+10,Métrica 7,Capacidade Explicativa,A,Zero-Shot,4
+10,Métrica 7,Capacidade Explicativa,B,Persona,3
+10,Métrica 7,Capacidade Explicativa,C,Template,5
+10,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+10,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,3
+10,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+10,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,4
+10,Métrica 7,Adequação ao Contexto Executivo,B,Persona,3
+10,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 1,Relevância das Informações,B,Persona,4
+11,Métrica 1,Relevância das Informações,C,Template,5
+11,Métrica 1,Compreensibilidade,A,Zero-Shot,3
+11,Métrica 1,Compreensibilidade,B,Persona,4
+11,Métrica 1,Compreensibilidade,C,Template,5
+11,Métrica 1,Capacidade Explicativa,A,Zero-Shot,4
+11,Métrica 1,Capacidade Explicativa,B,Persona,3
+11,Métrica 1,Capacidade Explicativa,C,Template,5
+11,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 1,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 2,Relevância das Informações,A,Zero-Shot,4
+11,Métrica 2,Relevância das Informações,B,Persona,3
+11,Métrica 2,Relevância das Informações,C,Template,5
+11,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+11,Métrica 2,Compreensibilidade,B,Persona,4
+11,Métrica 2,Compreensibilidade,C,Template,5
+11,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+11,Métrica 2,Capacidade Explicativa,B,Persona,4
+11,Métrica 2,Capacidade Explicativa,C,Template,5
+11,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 3,Relevância das Informações,B,Persona,4
+11,Métrica 3,Relevância das Informações,C,Template,5
+11,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+11,Métrica 3,Compreensibilidade,B,Persona,4
+11,Métrica 3,Compreensibilidade,C,Template,5
+11,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+11,Métrica 3,Capacidade Explicativa,B,Persona,4
+11,Métrica 3,Capacidade Explicativa,C,Template,5
+11,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 4,Relevância das Informações,B,Persona,4
+11,Métrica 4,Relevância das Informações,C,Template,5
+11,Métrica 4,Compreensibilidade,A,Zero-Shot,4
+11,Métrica 4,Compreensibilidade,B,Persona,3
+11,Métrica 4,Compreensibilidade,C,Template,5
+11,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+11,Métrica 4,Capacidade Explicativa,B,Persona,4
+11,Métrica 4,Capacidade Explicativa,C,Template,5
+11,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 5,Relevância das Informações,B,Persona,4
+11,Métrica 5,Relevância das Informações,C,Template,5
+11,Métrica 5,Compreensibilidade,A,Zero-Shot,3
+11,Métrica 5,Compreensibilidade,B,Persona,5
+11,Métrica 5,Compreensibilidade,C,Template,4
+11,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+11,Métrica 5,Capacidade Explicativa,B,Persona,3
+11,Métrica 5,Capacidade Explicativa,C,Template,5
+11,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 6,Relevância das Informações,B,Persona,4
+11,Métrica 6,Relevância das Informações,C,Template,5
+11,Métrica 6,Compreensibilidade,A,Zero-Shot,4
+11,Métrica 6,Compreensibilidade,B,Persona,3
+11,Métrica 6,Compreensibilidade,C,Template,5
+11,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+11,Métrica 6,Capacidade Explicativa,B,Persona,4
+11,Métrica 6,Capacidade Explicativa,C,Template,5
+11,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+11,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+11,Métrica 7,Relevância das Informações,B,Persona,4
+11,Métrica 7,Relevância das Informações,C,Template,5
+11,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+11,Métrica 7,Compreensibilidade,B,Persona,4
+11,Métrica 7,Compreensibilidade,C,Template,5
+11,Métrica 7,Capacidade Explicativa,A,Zero-Shot,4
+11,Métrica 7,Capacidade Explicativa,B,Persona,3
+11,Métrica 7,Capacidade Explicativa,C,Template,5
+11,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+11,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+11,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+11,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+11,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+11,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 1,Relevância das Informações,A,Zero-Shot,4
+12,Métrica 1,Relevância das Informações,B,Persona,3
+12,Métrica 1,Relevância das Informações,C,Template,5
+12,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+12,Métrica 1,Compreensibilidade,B,Persona,3
+12,Métrica 1,Compreensibilidade,C,Template,5
+12,Métrica 1,Capacidade Explicativa,A,Zero-Shot,4
+12,Métrica 1,Capacidade Explicativa,B,Persona,3
+12,Métrica 1,Capacidade Explicativa,C,Template,5
+12,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+12,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,2
+12,Métrica 1,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,4
+12,Métrica 1,Adequação ao Contexto Executivo,B,Persona,3
+12,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 2,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 2,Relevância das Informações,B,Persona,4
+12,Métrica 2,Relevância das Informações,C,Template,5
+12,Métrica 2,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 2,Compreensibilidade,B,Persona,4
+12,Métrica 2,Compreensibilidade,C,Template,5
+12,Métrica 2,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 2,Capacidade Explicativa,B,Persona,4
+12,Métrica 2,Capacidade Explicativa,C,Template,5
+12,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 2,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 3,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 3,Relevância das Informações,B,Persona,4
+12,Métrica 3,Relevância das Informações,C,Template,5
+12,Métrica 3,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 3,Compreensibilidade,B,Persona,4
+12,Métrica 3,Compreensibilidade,C,Template,5
+12,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 3,Capacidade Explicativa,B,Persona,4
+12,Métrica 3,Capacidade Explicativa,C,Template,5
+12,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 3,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 4,Relevância das Informações,B,Persona,4
+12,Métrica 4,Relevância das Informações,C,Template,5
+12,Métrica 4,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 4,Compreensibilidade,B,Persona,4
+12,Métrica 4,Compreensibilidade,C,Template,5
+12,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 4,Capacidade Explicativa,B,Persona,4
+12,Métrica 4,Capacidade Explicativa,C,Template,5
+12,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 4,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 5,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 5,Relevância das Informações,B,Persona,4
+12,Métrica 5,Relevância das Informações,C,Template,5
+12,Métrica 5,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 5,Compreensibilidade,B,Persona,4
+12,Métrica 5,Compreensibilidade,C,Template,5
+12,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 5,Capacidade Explicativa,B,Persona,4
+12,Métrica 5,Capacidade Explicativa,C,Template,5
+12,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 5,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 6,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 6,Relevância das Informações,B,Persona,4
+12,Métrica 6,Relevância das Informações,C,Template,5
+12,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 6,Compreensibilidade,B,Persona,4
+12,Métrica 6,Compreensibilidade,C,Template,5
+12,Métrica 6,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 6,Capacidade Explicativa,B,Persona,4
+12,Métrica 6,Capacidade Explicativa,C,Template,5
+12,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 6,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+12,Métrica 7,Relevância das Informações,A,Zero-Shot,3
+12,Métrica 7,Relevância das Informações,B,Persona,4
+12,Métrica 7,Relevância das Informações,C,Template,5
+12,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+12,Métrica 7,Compreensibilidade,B,Persona,4
+12,Métrica 7,Compreensibilidade,C,Template,5
+12,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+12,Métrica 7,Capacidade Explicativa,B,Persona,4
+12,Métrica 7,Capacidade Explicativa,C,Template,5
+12,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+12,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,3
+12,Métrica 7,Utilidade para Tomada de Decisão,C,Template,4
+12,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+12,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+12,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+13,Métrica 1,Relevância das Informações,A,Zero-Shot,4
+13,Métrica 1,Relevância das Informações,B,Persona,3
+13,Métrica 1,Relevância das Informações,C,Template,2
+13,Métrica 1,Compreensibilidade,A,Zero-Shot,4
+13,Métrica 1,Compreensibilidade,B,Persona,3
+13,Métrica 1,Compreensibilidade,C,Template,5
+13,Métrica 1,Capacidade Explicativa,A,Zero-Shot,1
+13,Métrica 1,Capacidade Explicativa,B,Persona,2
+13,Métrica 1,Capacidade Explicativa,C,Template,3
+13,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+13,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,4
+13,Métrica 1,Utilidade para Tomada de Decisão,C,Template,2
+13,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,5
+13,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 1,Adequação ao Contexto Executivo,C,Template,3
+13,Métrica 2,Relevância das Informações,A,Zero-Shot,2
+13,Métrica 2,Relevância das Informações,B,Persona,3
+13,Métrica 2,Relevância das Informações,C,Template,4
+13,Métrica 2,Compreensibilidade,A,Zero-Shot,5
+13,Métrica 2,Compreensibilidade,B,Persona,4
+13,Métrica 2,Compreensibilidade,C,Template,3
+13,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+13,Métrica 2,Capacidade Explicativa,B,Persona,3
+13,Métrica 2,Capacidade Explicativa,C,Template,2
+13,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+13,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,5
+13,Métrica 2,Utilidade para Tomada de Decisão,C,Template,3
+13,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,3
+13,Métrica 2,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+13,Métrica 3,Relevância das Informações,A,Zero-Shot,2
+13,Métrica 3,Relevância das Informações,B,Persona,3
+13,Métrica 3,Relevância das Informações,C,Template,4
+13,Métrica 3,Compreensibilidade,A,Zero-Shot,2
+13,Métrica 3,Compreensibilidade,B,Persona,3
+13,Métrica 3,Compreensibilidade,C,Template,5
+13,Métrica 3,Capacidade Explicativa,A,Zero-Shot,2
+13,Métrica 3,Capacidade Explicativa,B,Persona,3
+13,Métrica 3,Capacidade Explicativa,C,Template,4
+13,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+13,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+13,Métrica 3,Utilidade para Tomada de Decisão,C,Template,3
+13,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,3
+13,Métrica 3,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 3,Adequação ao Contexto Executivo,C,Template,2
+13,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+13,Métrica 4,Relevância das Informações,B,Persona,2
+13,Métrica 4,Relevância das Informações,C,Template,1
+13,Métrica 4,Compreensibilidade,A,Zero-Shot,4
+13,Métrica 4,Compreensibilidade,B,Persona,3
+13,Métrica 4,Compreensibilidade,C,Template,2
+13,Métrica 4,Capacidade Explicativa,A,Zero-Shot,2
+13,Métrica 4,Capacidade Explicativa,B,Persona,3
+13,Métrica 4,Capacidade Explicativa,C,Template,4
+13,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+13,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+13,Métrica 4,Utilidade para Tomada de Decisão,C,Template,3
+13,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,5
+13,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 4,Adequação ao Contexto Executivo,C,Template,3
+13,Métrica 5,Relevância das Informações,A,Zero-Shot,2
+13,Métrica 5,Relevância das Informações,B,Persona,1
+13,Métrica 5,Relevância das Informações,C,Template,3
+13,Métrica 5,Compreensibilidade,A,Zero-Shot,4
+13,Métrica 5,Compreensibilidade,B,Persona,3
+13,Métrica 5,Compreensibilidade,C,Template,2
+13,Métrica 5,Capacidade Explicativa,A,Zero-Shot,4
+13,Métrica 5,Capacidade Explicativa,B,Persona,3
+13,Métrica 5,Capacidade Explicativa,C,Template,2
+13,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+13,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,2
+13,Métrica 5,Utilidade para Tomada de Decisão,C,Template,4
+13,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+13,Métrica 5,Adequação ao Contexto Executivo,B,Persona,5
+13,Métrica 5,Adequação ao Contexto Executivo,C,Template,4
+13,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+13,Métrica 6,Relevância das Informações,B,Persona,3
+13,Métrica 6,Relevância das Informações,C,Template,5
+13,Métrica 6,Compreensibilidade,A,Zero-Shot,1
+13,Métrica 6,Compreensibilidade,B,Persona,2
+13,Métrica 6,Compreensibilidade,C,Template,3
+13,Métrica 6,Capacidade Explicativa,A,Zero-Shot,5
+13,Métrica 6,Capacidade Explicativa,B,Persona,4
+13,Métrica 6,Capacidade Explicativa,C,Template,3
+13,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+13,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,3
+13,Métrica 6,Utilidade para Tomada de Decisão,C,Template,4
+13,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,5
+13,Métrica 6,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 6,Adequação ao Contexto Executivo,C,Template,3
+13,Métrica 7,Relevância das Informações,A,Zero-Shot,5
+13,Métrica 7,Relevância das Informações,B,Persona,4
+13,Métrica 7,Relevância das Informações,C,Template,2
+13,Métrica 7,Compreensibilidade,A,Zero-Shot,5
+13,Métrica 7,Compreensibilidade,B,Persona,4
+13,Métrica 7,Compreensibilidade,C,Template,2
+13,Métrica 7,Capacidade Explicativa,A,Zero-Shot,3
+13,Métrica 7,Capacidade Explicativa,B,Persona,4
+13,Métrica 7,Capacidade Explicativa,C,Template,5
+13,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,5
+13,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+13,Métrica 7,Utilidade para Tomada de Decisão,C,Template,3
+13,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,3
+13,Métrica 7,Adequação ao Contexto Executivo,B,Persona,4
+13,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+14,Métrica 1,Relevância das Informações,B,Persona,4
+14,Métrica 1,Relevância das Informações,C,Template,5
+14,Métrica 1,Compreensibilidade,A,Zero-Shot,3
+14,Métrica 1,Compreensibilidade,B,Persona,4
+14,Métrica 1,Compreensibilidade,C,Template,5
+14,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+14,Métrica 1,Capacidade Explicativa,B,Persona,4
+14,Métrica 1,Capacidade Explicativa,C,Template,5
+14,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,2
+14,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,3
+14,Métrica 1,Utilidade para Tomada de Decisão,C,Template,4
+14,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,3
+14,Métrica 1,Adequação ao Contexto Executivo,B,Persona,4
+14,Métrica 1,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 2,Relevância das Informações,A,Zero-Shot,3
+14,Métrica 2,Relevância das Informações,B,Persona,4
+14,Métrica 2,Relevância das Informações,C,Template,5
+14,Métrica 2,Compreensibilidade,A,Zero-Shot,4
+14,Métrica 2,Compreensibilidade,B,Persona,3
+14,Métrica 2,Compreensibilidade,C,Template,5
+14,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+14,Métrica 2,Capacidade Explicativa,B,Persona,3
+14,Métrica 2,Capacidade Explicativa,C,Template,5
+14,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+14,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,4
+14,Métrica 2,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,4
+14,Métrica 2,Adequação ao Contexto Executivo,B,Persona,3
+14,Métrica 2,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 3,Relevância das Informações,A,Zero-Shot,4
+14,Métrica 3,Relevância das Informações,B,Persona,5
+14,Métrica 3,Relevância das Informações,C,Template,3
+14,Métrica 3,Compreensibilidade,A,Zero-Shot,4
+14,Métrica 3,Compreensibilidade,B,Persona,3
+14,Métrica 3,Compreensibilidade,C,Template,5
+14,Métrica 3,Capacidade Explicativa,A,Zero-Shot,3
+14,Métrica 3,Capacidade Explicativa,B,Persona,4
+14,Métrica 3,Capacidade Explicativa,C,Template,5
+14,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+14,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,4
+14,Métrica 3,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,4
+14,Métrica 3,Adequação ao Contexto Executivo,B,Persona,3
+14,Métrica 3,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+14,Métrica 4,Relevância das Informações,B,Persona,4
+14,Métrica 4,Relevância das Informações,C,Template,5
+14,Métrica 4,Compreensibilidade,A,Zero-Shot,4
+14,Métrica 4,Compreensibilidade,B,Persona,5
+14,Métrica 4,Compreensibilidade,C,Template,3
+14,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+14,Métrica 4,Capacidade Explicativa,B,Persona,4
+14,Métrica 4,Capacidade Explicativa,C,Template,5
+14,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+14,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,4
+14,Métrica 4,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+14,Métrica 4,Adequação ao Contexto Executivo,B,Persona,4
+14,Métrica 4,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 5,Relevância das Informações,A,Zero-Shot,4
+14,Métrica 5,Relevância das Informações,B,Persona,3
+14,Métrica 5,Relevância das Informações,C,Template,5
+14,Métrica 5,Compreensibilidade,A,Zero-Shot,5
+14,Métrica 5,Compreensibilidade,B,Persona,4
+14,Métrica 5,Compreensibilidade,C,Template,3
+14,Métrica 5,Capacidade Explicativa,A,Zero-Shot,3
+14,Métrica 5,Capacidade Explicativa,B,Persona,4
+14,Métrica 5,Capacidade Explicativa,C,Template,5
+14,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+14,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,3
+14,Métrica 5,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,3
+14,Métrica 5,Adequação ao Contexto Executivo,B,Persona,4
+14,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 6,Relevância das Informações,A,Zero-Shot,4
+14,Métrica 6,Relevância das Informações,B,Persona,3
+14,Métrica 6,Relevância das Informações,C,Template,5
+14,Métrica 6,Compreensibilidade,A,Zero-Shot,3
+14,Métrica 6,Compreensibilidade,B,Persona,4
+14,Métrica 6,Compreensibilidade,C,Template,5
+14,Métrica 6,Capacidade Explicativa,A,Zero-Shot,2
+14,Métrica 6,Capacidade Explicativa,B,Persona,4
+14,Métrica 6,Capacidade Explicativa,C,Template,5
+14,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+14,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,4
+14,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,4
+14,Métrica 6,Adequação ao Contexto Executivo,B,Persona,3
+14,Métrica 6,Adequação ao Contexto Executivo,C,Template,5
+14,Métrica 7,Relevância das Informações,A,Zero-Shot,4
+14,Métrica 7,Relevância das Informações,B,Persona,3
+14,Métrica 7,Relevância das Informações,C,Template,5
+14,Métrica 7,Compreensibilidade,A,Zero-Shot,5
+14,Métrica 7,Compreensibilidade,B,Persona,4
+14,Métrica 7,Compreensibilidade,C,Template,2
+14,Métrica 7,Capacidade Explicativa,A,Zero-Shot,4
+14,Métrica 7,Capacidade Explicativa,B,Persona,3
+14,Métrica 7,Capacidade Explicativa,C,Template,5
+14,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+14,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,4
+14,Métrica 7,Utilidade para Tomada de Decisão,C,Template,5
+14,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,4
+14,Métrica 7,Adequação ao Contexto Executivo,B,Persona,3
+14,Métrica 7,Adequação ao Contexto Executivo,C,Template,5
+15,Métrica 1,Relevância das Informações,A,Zero-Shot,3
+15,Métrica 1,Relevância das Informações,B,Persona,1
+15,Métrica 1,Relevância das Informações,C,Template,4
+15,Métrica 1,Compreensibilidade,A,Zero-Shot,1
+15,Métrica 1,Compreensibilidade,B,Persona,2
+15,Métrica 1,Compreensibilidade,C,Template,3
+15,Métrica 1,Capacidade Explicativa,A,Zero-Shot,3
+15,Métrica 1,Capacidade Explicativa,B,Persona,2
+15,Métrica 1,Capacidade Explicativa,C,Template,5
+15,Métrica 1,Utilidade para Tomada de Decisão,A,Zero-Shot,1
+15,Métrica 1,Utilidade para Tomada de Decisão,B,Persona,3
+15,Métrica 1,Utilidade para Tomada de Decisão,C,Template,4
+15,Métrica 1,Adequação ao Contexto Executivo,A,Zero-Shot,5
+15,Métrica 1,Adequação ao Contexto Executivo,B,Persona,1
+15,Métrica 1,Adequação ao Contexto Executivo,C,Template,3
+15,Métrica 2,Relevância das Informações,A,Zero-Shot,1
+15,Métrica 2,Relevância das Informações,B,Persona,3
+15,Métrica 2,Relevância das Informações,C,Template,5
+15,Métrica 2,Compreensibilidade,A,Zero-Shot,5
+15,Métrica 2,Compreensibilidade,B,Persona,2
+15,Métrica 2,Compreensibilidade,C,Template,1
+15,Métrica 2,Capacidade Explicativa,A,Zero-Shot,4
+15,Métrica 2,Capacidade Explicativa,B,Persona,2
+15,Métrica 2,Capacidade Explicativa,C,Template,3
+15,Métrica 2,Utilidade para Tomada de Decisão,A,Zero-Shot,1
+15,Métrica 2,Utilidade para Tomada de Decisão,B,Persona,2
+15,Métrica 2,Utilidade para Tomada de Decisão,C,Template,3
+15,Métrica 2,Adequação ao Contexto Executivo,A,Zero-Shot,1
+15,Métrica 2,Adequação ao Contexto Executivo,B,Persona,3
+15,Métrica 2,Adequação ao Contexto Executivo,C,Template,2
+15,Métrica 3,Relevância das Informações,A,Zero-Shot,1
+15,Métrica 3,Relevância das Informações,B,Persona,2
+15,Métrica 3,Relevância das Informações,C,Template,3
+15,Métrica 3,Compreensibilidade,A,Zero-Shot,5
+15,Métrica 3,Compreensibilidade,B,Persona,1
+15,Métrica 3,Compreensibilidade,C,Template,4
+15,Métrica 3,Capacidade Explicativa,A,Zero-Shot,2
+15,Métrica 3,Capacidade Explicativa,B,Persona,3
+15,Métrica 3,Capacidade Explicativa,C,Template,4
+15,Métrica 3,Utilidade para Tomada de Decisão,A,Zero-Shot,1
+15,Métrica 3,Utilidade para Tomada de Decisão,B,Persona,2
+15,Métrica 3,Utilidade para Tomada de Decisão,C,Template,4
+15,Métrica 3,Adequação ao Contexto Executivo,A,Zero-Shot,5
+15,Métrica 3,Adequação ao Contexto Executivo,B,Persona,1
+15,Métrica 3,Adequação ao Contexto Executivo,C,Template,2
+15,Métrica 4,Relevância das Informações,A,Zero-Shot,3
+15,Métrica 4,Relevância das Informações,B,Persona,2
+15,Métrica 4,Relevância das Informações,C,Template,1
+15,Métrica 4,Compreensibilidade,A,Zero-Shot,4
+15,Métrica 4,Compreensibilidade,B,Persona,2
+15,Métrica 4,Compreensibilidade,C,Template,1
+15,Métrica 4,Capacidade Explicativa,A,Zero-Shot,3
+15,Métrica 4,Capacidade Explicativa,B,Persona,2
+15,Métrica 4,Capacidade Explicativa,C,Template,1
+15,Métrica 4,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+15,Métrica 4,Utilidade para Tomada de Decisão,B,Persona,2
+15,Métrica 4,Utilidade para Tomada de Decisão,C,Template,1
+15,Métrica 4,Adequação ao Contexto Executivo,A,Zero-Shot,3
+15,Métrica 4,Adequação ao Contexto Executivo,B,Persona,2
+15,Métrica 4,Adequação ao Contexto Executivo,C,Template,1
+15,Métrica 5,Relevância das Informações,A,Zero-Shot,1
+15,Métrica 5,Relevância das Informações,B,Persona,4
+15,Métrica 5,Relevância das Informações,C,Template,2
+15,Métrica 5,Compreensibilidade,A,Zero-Shot,1
+15,Métrica 5,Compreensibilidade,B,Persona,5
+15,Métrica 5,Compreensibilidade,C,Template,2
+15,Métrica 5,Capacidade Explicativa,A,Zero-Shot,5
+15,Métrica 5,Capacidade Explicativa,B,Persona,4
+15,Métrica 5,Capacidade Explicativa,C,Template,1
+15,Métrica 5,Utilidade para Tomada de Decisão,A,Zero-Shot,1
+15,Métrica 5,Utilidade para Tomada de Decisão,B,Persona,4
+15,Métrica 5,Utilidade para Tomada de Decisão,C,Template,3
+15,Métrica 5,Adequação ao Contexto Executivo,A,Zero-Shot,4
+15,Métrica 5,Adequação ao Contexto Executivo,B,Persona,2
+15,Métrica 5,Adequação ao Contexto Executivo,C,Template,5
+15,Métrica 6,Relevância das Informações,A,Zero-Shot,1
+15,Métrica 6,Relevância das Informações,B,Persona,3
+15,Métrica 6,Relevância das Informações,C,Template,5
+15,Métrica 6,Compreensibilidade,A,Zero-Shot,1
+15,Métrica 6,Compreensibilidade,B,Persona,2
+15,Métrica 6,Compreensibilidade,C,Template,3
+15,Métrica 6,Capacidade Explicativa,A,Zero-Shot,1
+15,Métrica 6,Capacidade Explicativa,B,Persona,2
+15,Métrica 6,Capacidade Explicativa,C,Template,3
+15,Métrica 6,Utilidade para Tomada de Decisão,A,Zero-Shot,3
+15,Métrica 6,Utilidade para Tomada de Decisão,B,Persona,2
+15,Métrica 6,Utilidade para Tomada de Decisão,C,Template,5
+15,Métrica 6,Adequação ao Contexto Executivo,A,Zero-Shot,1
+15,Métrica 6,Adequação ao Contexto Executivo,B,Persona,2
+15,Métrica 6,Adequação ao Contexto Executivo,C,Template,4
+15,Métrica 7,Relevância das Informações,A,Zero-Shot,1
+15,Métrica 7,Relevância das Informações,B,Persona,2
+15,Métrica 7,Relevância das Informações,C,Template,3
+15,Métrica 7,Compreensibilidade,A,Zero-Shot,3
+15,Métrica 7,Compreensibilidade,B,Persona,2
+15,Métrica 7,Compreensibilidade,C,Template,4
+15,Métrica 7,Capacidade Explicativa,A,Zero-Shot,2
+15,Métrica 7,Capacidade Explicativa,B,Persona,3
+15,Métrica 7,Capacidade Explicativa,C,Template,5
+15,Métrica 7,Utilidade para Tomada de Decisão,A,Zero-Shot,4
+15,Métrica 7,Utilidade para Tomada de Decisão,B,Persona,2
+15,Métrica 7,Utilidade para Tomada de Decisão,C,Template,3
+15,Métrica 7,Adequação ao Contexto Executivo,A,Zero-Shot,1
+15,Métrica 7,Adequação ao Contexto Executivo,B,Persona,3
+15,Métrica 7,Adequação ao Contexto Executivo,C,Template,5

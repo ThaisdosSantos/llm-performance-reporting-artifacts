@@ -1,0 +1,16 @@
+﻿criterio,comparacao,statistics,p_valor
+Relevância das Informações,Zero-Shot vs Persona,1918.0,0.002555823975115278
+Relevância das Informações,Zero-Shot vs Template,1091.0,2.7922745150965954e-08
+Relevância das Informações,Persona vs Template,1527.5,3.1749367433740176e-05
+Compreensibilidade,Zero-Shot vs Persona,2514.5,0.35531187262239783
+Compreensibilidade,Zero-Shot vs Template,1699.5,0.00038453840640071025
+Compreensibilidade,Persona vs Template,1653.5,0.00016967066385318406
+Capacidade Explicativa,Zero-Shot vs Persona,1895.0,0.0019533117068676288
+Capacidade Explicativa,Zero-Shot vs Template,684.5,4.229216310962477e-12
+Capacidade Explicativa,Persona vs Template,1003.0,2.469309729781807e-09
+Utilidade para Tomada de Decisão,Zero-Shot vs Persona,2023.5,0.009044090261000682
+Utilidade para Tomada de Decisão,Zero-Shot vs Template,600.0,4.718185377149616e-13
+Utilidade para Tomada de Decisão,Persona vs Template,845.0,8.567587945977026e-11
+Adequação ao Contexto Executivo,Zero-Shot vs Persona,1876.0,0.0018216226346720998
+Adequação ao Contexto Executivo,Zero-Shot vs Template,579.5,3.515798633213818e-13
+Adequação ao Contexto Executivo,Persona vs Template,683.5,1.8166889404323427e-12

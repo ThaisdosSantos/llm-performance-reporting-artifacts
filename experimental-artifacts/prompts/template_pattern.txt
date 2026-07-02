@@ -1,0 +1,44 @@
+
+Analise os resultados do teste de desempenho apresentados a seguir e produza um relatório executivo estruturado.
+
+Público-alvo: gestores, clientes e demais partes interessadas sem conhecimento técnico aprofundado.
+
+Métrica analisada: [INSERIR METRICA]
+Em anexo a Imagem contendo os resultados
+
+Utilize linguagem clara, objetiva e acessível.
+
+O relatório deve interpretar os resultados observados e explicar seu significado para o comportamento geral do sistema, evitando apenas descrever visualmente o gráfico.
+
+Considere exclusivamente as informações apresentadas na imagem e na métrica informada.
+
+Não invente valores, causas, justificativas ou informações que não estejam evidenciadas nos resultados apresentados.
+
+Quando determinada conclusão não puder ser inferida diretamente dos dados fornecidos, informe explicitamente que essa informação não pode ser determinada a partir dos resultados disponíveis.
+
+Apresente o relatório em formato textual, utilizando obrigatoriamente a seguinte estrutura:
+
+Resumo Executivo;
+Principais Resultados;
+Impactos para os Usuários;
+Impactos para o Negócio;
+Riscos e Pontos de Atenção;
+Conclusão.
+
+Orientações para o preenchimento da estrutura:
+
+• Resumo Executivo: apresentar a principal mensagem identificada nos resultados da métrica analisada.
+
+• Principais Resultados: destacar entre três e cinco evidências observadas nos dados, enfatizando tendências, estabilidade, oscilações ou comportamentos relevantes.
+
+• Impactos para os Usuários: descrever possíveis consequências percebidas pelos usuários que possam ser inferidas diretamente a partir dos resultados observados.
+
+• Impactos para o Negócio: descrever possíveis implicações organizacionais ou operacionais que possam ser inferidas diretamente dos resultados.
+
+• Riscos e Pontos de Atenção: identificar comportamentos que mereçam acompanhamento, monitoramento ou análise adicional.
+
+• Conclusão: sintetizar os principais achados em até três frases.
+O relatório deve ser conciso e possuir no máximo meia página de texto.
+
+
+ 
